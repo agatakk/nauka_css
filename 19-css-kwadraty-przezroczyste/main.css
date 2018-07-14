@@ -1,0 +1,24 @@
+body{
+    background-color: beige;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin-left: 60px;
+    margin-bottom: 5px;
+}
+
+.div1{
+    margin-top:20px;
+}
+.div2{
+    opacity:.7;
+}
+.div3{
+    opacity:.5;
+}
+.div4{
+    opacity:.3;
+}
