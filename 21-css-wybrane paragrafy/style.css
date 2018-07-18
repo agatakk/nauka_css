@@ -1,0 +1,11 @@
+p{
+    width: 100px;
+    height: 100px;
+    background-color:green;
+}
+.bckg-color{
+    background-color: dimgrey;
+}
+.opc{
+    opacity: .5;
+}
